@@ -1,13 +1,16 @@
 👋 Hi there! I'm Michelle Swem
 
-I'm a frontend Developer and content writer passionate about making the web accessible to everyone.
+I'm a meticulous Frontend Developer and content writer with a great passion for building responsive website design.
+A firm believer in using the best practices of writing clean and maintainable codes.
 
 As a productive frontend Developer, I am dedicated to learning additional technology skills and coding languages.
 I love sharing my knowledge with others, and I do that through content writing on my personal blog.
 
+My believe is, When you embrace yourself and you believe in your dreams, then you can be whatever you want to be as long as you put your heart to it.
+
 - 😄 My Pronouns: She/Her
-- 💬 Ask me about: CSS
-- 📫 How to reach me: [@PreciselyMiche1](https://twitter.com/preciselymiche1)
+- 💬 Ask me about: React
+- 📫 How to reach me: [@MichelleDooSwem](https://mobile.twitter.com/MichelleDooSwem)
 - ⚡ Fun fact: I love Dancing
 
 ## Hobbies :heart:
