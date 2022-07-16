@@ -1,6 +1,6 @@
 👋 Hi there! I'm Michelle Swem
 
-I'm a meticulous Frontend Developer and content writer with a great passion for building responsive website design.
+I'm a meticulous Frontend Developer and content writer with a great passion for building responsive website.
 A firm believer in using the best practices of writing clean and maintainable codes.
 
 As a productive frontend Developer, I am dedicated to learning additional technology skills and coding languages.
